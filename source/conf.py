@@ -67,18 +67,18 @@ exclude_patterns = []
 html_theme = 'alabaster'
 
 # declare some HTML options
-html_theme_options = {
-    'logo_only': True,
-    'display_version': True,
-    'prev_next_buttons_location': 'bottom',
-    'style_external_links': True,
-    # Toc options
-    'collapse_navigation': False,
-    'sticky_navigation': False,
-    'navigation_depth': 2,
-    'includehidden': True,
-    'titles_only': True
-}
+# html_theme_options = {
+#     'logo_only': True,
+#     'display_version': True,
+#     'prev_next_buttons_location': 'bottom',
+#     'style_external_links': True,
+#     # Toc options
+#     'collapse_navigation': False,
+#     'sticky_navigation': False,
+#     'navigation_depth': 2,
+#     'includehidden': True,
+#     'titles_only': True
+# }
 
 # TODO comeback to this
 # html_title = 'My amazing documentation'

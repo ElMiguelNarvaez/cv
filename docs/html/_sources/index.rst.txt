@@ -24,3 +24,5 @@ Menu
 ==================
 * :ref:`index`
 * :ref:`search`
+
+Download the off-line résumé :download:`Miguel_Narvaez_CV.pdf 📥📁 <./cv_test.pdf>`
