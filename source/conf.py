@@ -51,7 +51,7 @@ templates_path = ['_templates']
 #
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
-language = 'en'
+language = 'fr'
 
 # List of patterns, relative to sources directory, that match files and
 # directories to ignore when looking for source files.
@@ -65,27 +65,21 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = 'alabaster'
-
-# declare some HTML options
-# html_theme_options = {
-#     'logo_only': True,
-#     'display_version': True,
-#     'prev_next_buttons_location': 'bottom',
-#     'style_external_links': True,
-#     # Toc options
-#     'collapse_navigation': False,
-#     'sticky_navigation': False,
-#     'navigation_depth': 2,
-#     'includehidden': True,
-#     'titles_only': True
-# }
-
-# TODO comeback to this
-# html_title = 'My amazing documentation'
-# html_logo = 'path/to/logo.png'
-# html_favicon = 'path/to/favicon.ico'
+html_title = "CV 📍"
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+
+# Adding html options
+html_sidebars = {
+  '**': [
+    "about.html",
+    "navigation.html",
+    "relations.html",
+    "searchbox.html",
+    "donate.html",
+    "contact.html",
+  ]
+}

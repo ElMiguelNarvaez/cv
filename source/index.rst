@@ -4,10 +4,11 @@
    contain the root `toctree` directive.
 
 Miguel Narvaez
-==============================
+==============
 
-GIS Engineer
-##############################
+
+Ingénieur Systèmes d'Information Géographique
+#############################################
 
 
 .. toctree::
@@ -25,4 +26,5 @@ Menu
 * :ref:`index`
 * :ref:`search`
 
-Download the off-line résumé :download:`Miguel_Narvaez_CV.pdf 📥📁 <./cv_test.pdf>`
+.. note::
+   Download the off-line résumé :download:`Miguel_CV.pdf 📥📁 <./cv_test.pdf>`
