@@ -28,10 +28,19 @@ release = '1.0'
 
 # -- General configuration ---------------------------------------------------
 
+# The following example configures Sphinx to parse all files with the extensions:
+source_suffix = {
+    '.rst': 'restructuredtext',
+    '.txt': 'markdown',
+    '.md': 'markdown',
+}
+
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx_markdown_tables', # Need to suport markdown
+    'myst_parser',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -56,6 +65,25 @@ exclude_patterns = []
 # a list of builtin themes.
 #
 html_theme = 'alabaster'
+
+# declare some HTML options
+html_theme_options = {
+    'logo_only': True,
+    'display_version': True,
+    'prev_next_buttons_location': 'bottom',
+    'style_external_links': True,
+    # Toc options
+    'collapse_navigation': False,
+    'sticky_navigation': False,
+    'navigation_depth': 2,
+    'includehidden': True,
+    'titles_only': True
+}
+
+# TODO comeback to this
+# html_title = 'My amazing documentation'
+# html_logo = 'path/to/logo.png'
+# html_favicon = 'path/to/favicon.ico'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

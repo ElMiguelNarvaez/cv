@@ -12,7 +12,11 @@ GIS Engineer
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+
+   profile.md
+   experience.md
+   skills.md
+   education.md
 
 
 
