@@ -7,7 +7,7 @@ Cependant, ma curiosité et ma soif d'apprendre perdurent et resteront latentes 
 **Compétences personnelles**
 - Capacité d'auto-apprentissage
 - Rigueur et motivation
-- Capacités de recherche
+- Capacité de recherche
 - Je parle:<br>
 
 >>![France:](./images/france.PNG "france") ![USA:](./images/usa.PNG "usa") ![Spain:](./images/spain.PNG "spain")
@@ -18,7 +18,15 @@ Cependant, ma curiosité et ma soif d'apprendre perdurent et resteront latentes 
 - Fiabilité
 
 **Compétences techniques**
-- Utilisation de `Python` appliqué au développement SIG et leurs alliages avec ArcGIS `ArcPy` et QGIS `PyQGIS`.
-- Utilisation des langages web `JS/HTML/CSS` appliqués à la cartographie web interactive big data.
+- Utilisation de `Python` appliqué au développement SIG et leurs alliages avec ArcGIS `ArcPy` et QGIS `PyQGIS`
+- Conception `Front-End` et `Back-End` appliqués à la cartographie web interactive big data
 - Développement dans un environnement industriel contrôlé par des systèmes de contrôle `GIT`
+- Architecture et gestion de bases de données spatiales avec `PostgreSQL` et son extension spatiale `PostGIS`
+- Génération de requêtes via `API Overpass Turbo` vers la base de données `Open Street Maps`
 
+**Notions de Base**
+- GeoConcept
+- FME
+- Blender GIS
+- Google Earth Engine
+- MapBox Studio
