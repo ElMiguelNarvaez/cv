@@ -1,16 +1,16 @@
 # Experience
 
 ## Développeur SIG
-*Septembre 2020 - present*
+*Juin 2020 - present*
 
-En tant que développeur SIG au sein de la start-up climatique [Origins-Earth](https://www.origins.earth/notre-demarche), j'ai développé mon stage de master en Géomatique, où j'ai eu l'opportunité de participer activement aux projets suivants :
+En tant que développeur SIG au sein de la start-up climatique [Origins-Earth](https://www.origins.earth/notre-demarche), j'ai développé mon alternance de master en Géomatique, où j'ai eu l'opportunité de participer activement aux projets suivants :
 
 ##### 1. Développement d'un module de calcul et spatialization des émissions de GES du transport aérien
 
 La réalisation de ce projet à entraîné la compréhension du fonctionnement des moteurs aéronautiques,
 les caractéristiques techniques des types de moteurs et d'aéronefs, l'identification et l'exploitation de bases de données d'accès public liées au trafic aérien, la localisation des pistes aéroportuaires et spatialisation des trajectoires en 3D.
 
-*💡 Pour ce projet, j’ai dirigé aussi l'installation et le paramétrage d'un récepteur de signal [ADS-B](https://fr.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast), qui alimente le module de calcul en informations sur le trafic aérien.*
+*💡 Pour ce projet, j’ai dirigé aussi l'installation et le paramétrage d'un récepteur de signal [ADS-B](https://fr.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast), qui alimente le module de calcul avec informations sur le trafic aérien.*
 
 | Produits                                                                                                                                                                                                                                                                                                                                                                                                                                              | Langages              | Logiciels et Librairies                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------- |
@@ -47,12 +47,19 @@ Représentation de données spatiales sous forme de cartes statiques et interact
 ⚠️ Valeurs produites au hasard avec  le seul l'objectif de générer un produit visuel
 
 
-## Job title at company
+## Évaluateur Cadastral
 *Septembre 2018 - Semptembre 2019*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- En tant que jeune ingénieur, j'ai travaillé dans la société d'expertise cadastrale [APRA](https://apra.com.co/), j'y ai participé à des projets liés au calcul de la valeur des biens immobiliers, suivant les méthodes de comparaison du marché, méthode de revenu ou de capitalisation du revenu, Méthode du coût de remplacement et méthode résiduelle.
 
-## Job title at company
-*February 2018 - June 2018*
+- De plus, j'ai participé à la mise à jour de la base de données cadastrale et à la proposition de modèles économétriques pour déterminer la valeur de la taxe foncière de la ville de Cali en Colombie, avec une population de 2,3 millions d'habitants.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+- Enfin, j'ai mené un projet d'évaluation d'habitations dans des zones exposées à un risque de glissement de terrain dans la cordillère orientale de la ville de Bogota, en Colombie, dans le cadre d'un plan de relogement de familles à risque.
+
+
+## Développeur d'applications avec ArcGIS Web AppBuilder
+*Octobre 2017 - June 2018*
+
+Au sein de la [Direction Générale Maritime de Colombie](https://www.dimar.mil.co/), j'ai effectué mon stage d'ingénieur; j'y ai participé à la création d'applications pour le service maritime en utilisant principalement les produits ArcGIS Enterprise, en particullier ArcGIS WebAppBuilder et ArcGIS Dashboards.<br>
+
+*👓 Au fait, vous trouverez [ici](https://www.arcgis.com/apps/dashboards/ed8f47658db84a95a63e72f0b053c137) l'un des produits récemment réalisés avec deux camarades de classe à l'aide des outils ArcGIS, dans le cadre d'un de mes cours du Master en géomatique*
