@@ -1,4 +1,4 @@
-# Experience
+# Expériences
 
 ## Développeur SIG
 *Juin 2020 - present*
@@ -15,7 +15,7 @@ les caractéristiques techniques des types de moteurs et d'aéronefs, l'identifi
 | Produits                                                                                                                                                                                                                                                                                                                                                                                                                                              | Langages              | Logiciels et Librairies                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------- |
 | Conception, construction et gestion de la base de données                                                                                                                                                                                                                                                                                                                                                                                             | PostgreSQL<br>PostGIS | pgAdmin                                                                                 |
-| Développement :<br> La construction du module est basé sur du Python pur au sein d'un environnement de développement industriel, avec des modules spécialisés dans la capture et le traitement de données spatiales, la connexion à des bases de données sur des serveurs distants et locaux, et la production d'informations spatiales dans des formats adaptés à la visualisation comme GeoJSON, SHP, KML et des formats multidimensionnels comme NetCDF. | Python<br>Git         | VSC<br>Pandas<br>GeoPandas<br>Psicopg<br>SQLALchemy<br>Numpy<br>Beautiful Soup<br>Fuzzy |
+| Développement :<br> La construction du module est basé sur du Python pur au sein d'un environnement de développement industriel, avec des modules spécialisés dans la capture et le traitement de données spatiales, la connexion à des bases de données sur des serveurs distants et locaux, et la production d'informations spatiales dans des formats adaptés à la visualisation comme GeoJSON, SHP, KML et des formats multidimensionnels comme NetCDF. | Python<br>Git         | VSC<br>Pandas<br>GeoPandas<br>Psicopg<br>PyTest<br>SQLALchemy<br>Numpy<br>Beautiful Soup<br>Fuzzy |
 
 ![Trajectoires 3D à l'aéroport Charles de Gaulle:](./images/trajectories3D.jpg "Trajectoires 3D à l'aéroport Charles de Gaulle:")
 
@@ -62,4 +62,4 @@ Représentation de données spatiales sous forme de cartes statiques et interact
 
 Au sein de la [Direction Générale Maritime de Colombie](https://www.dimar.mil.co/), j'ai effectué mon stage d'ingénieur; j'y ai participé à la création d'applications pour le service maritime en utilisant principalement les produits ArcGIS Enterprise, en particullier ArcGIS WebAppBuilder et ArcGIS Dashboards.<br>
 
-*👓 Au fait, vous trouverez [ici](https://www.arcgis.com/apps/dashboards/ed8f47658db84a95a63e72f0b053c137) l'un des produits récemment réalisés avec deux camarades de classe à l'aide des outils ArcGIS, dans le cadre d'un de mes cours du Master en géomatique*
+*👓 Au fait, vous trouverez [ici](https://www.arcgis.com/apps/dashboards/ed8f47658db84a95a63e72f0b053c137) l'un des produits récemment réalisés avec deux talentueuses camarades de classe à l'aide des outils ArcGIS, dans le cadre d'un de mes cours du Master en géomatique.*
