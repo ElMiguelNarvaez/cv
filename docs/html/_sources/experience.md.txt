@@ -26,7 +26,7 @@ Conception d'une méthodologie permettant de répartir les émissions de GES à 
 
 | Produits                                                                                                                                                                                                                                                                             | Langages                         | Logiciels et Librairies      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ---------------------------- |
-| - Conception de la methodologie de traitement des données spatiales et automatization des geoprocessus.<br>- Traitement des données au format NetCDF, SHP, GeoJSON, consultation de la base de données Open Street Map.<br>- Rédaction de rapports explicatifs des méthodologies proposées | Python<br>ArcPy<br>PyQgis<br>GIT | QGIS 3x<br>ArcGIS Pro<br>VSC |
+| - Conception de la methodologie de traitement des données spatiales et automatization des geoprocessus.<br>- Traitement des données au format NetCDF, SHP, GeoJSON, consultation de la base de données Open Street Map.<br>- Rédaction de rapports explicatifs des méthodologies proposées | Python<br>ArcPy<br>PyQgis<br>GIT | QGIS<br>ArcGIS Pro<br>VSC |
 
 
 ##### 3. Présentation des données spatiales
