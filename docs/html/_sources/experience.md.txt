@@ -5,17 +5,22 @@
 
 En tant que développeur SIG au sein de la start-up climatique [Origins-Earth](https://www.origins.earth/notre-demarche), j'ai développé mon stage de master en Géomatique, où j'ai eu l'opportunité de participer activement aux projets suivants :
 
-**1. Développement d'un module de calcul des émissions de GES du transport aérien**
-La réalisation de ce projet a impliqué la compréhension du fonctionnement des moteurs aéronautiques,
-les caractéristiques techniques des types de moteurs et d'aéronefs,  l'identification et l'exploitation de bases de données d'accès public liées au trafic aérien, la localisation des pistes aéroportuaires.
+##### 1. Développement d'un module de calcul et spatialization des émissions de GES du transport aérien
+
+La réalisation de ce projet à entraîné la compréhension du fonctionnement des moteurs aéronautiques,
+les caractéristiques techniques des types de moteurs et d'aéronefs, l'identification et l'exploitation de bases de données d'accès public liées au trafic aérien, la localisation des pistes aéroportuaires et spatialisation des trajectoires en 3D.
 
 *💡 Pour ce projet, j’ai dirigé aussi l'installation et le paramétrage d'un récepteur de signal [ADS-B](https://fr.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast), qui alimente le module de calcul en informations sur le trafic aérien.*
 
-**Les connaissances et concepts impliqués dans ce projet sont :**
 | Produits                                                                                                                                                                                                                                                                                                                                                                                                                                              | Langages              | Logiciels et Librairies                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------- |
 | Conception, construction et gestion de la base de données                                                                                                                                                                                                                                                                                                                                                                                             | PostgreSQL<br>PostGIS | pgAdmin                                                                                 |
-| Développent : La construction du module est basé sur du Python pur au sein d'un environnement de développement industriel, avec des modules spécialisés dans la capture et le traitement de données spatiales, la connexion à des bases de données sur des serveurs distants et locaux, et la production d'informations spatiales dans des formats adaptés à la visualisation comme GeoJSON, SHP, KML et des formats multidimensionnels comme NetCDF. | Python<br>Git         | VSC<br>Pandas<br>GeoPandas<br>Psicopg<br>SQLALchemy<br>Numpy<br>Beautiful Soup<br>Fuzzy |
+| Développement :<br> La construction du module est basé sur du Python pur au sein d'un environnement de développement industriel, avec des modules spécialisés dans la capture et le traitement de données spatiales, la connexion à des bases de données sur des serveurs distants et locaux, et la production d'informations spatiales dans des formats adaptés à la visualisation comme GeoJSON, SHP, KML et des formats multidimensionnels comme NetCDF. | Python<br>Git         | VSC<br>Pandas<br>GeoPandas<br>Psicopg<br>SQLALchemy<br>Numpy<br>Beautiful Soup<br>Fuzzy |
+
+![Trajectoires 3D à l'aéroport Charles de Gaulle:](./images/trajectories3D.jpg "User Interface Origins Locator")
+
+
+##### 2. Spatialisation des émissions de CO2 et de CH4 à partir du rapport annuel des émissions de GES à Chypre
 
 
 
