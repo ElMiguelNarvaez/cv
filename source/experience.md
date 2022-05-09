@@ -22,6 +22,12 @@ les caractéristiques techniques des types de moteurs et d'aéronefs, l'identifi
 
 ##### 2. Spatialisation des émissions de CO2 et de CH4 à partir du rapport annuel des émissions de GES à Chypre
 
+Conception d'une méthodologie permettant de répartir les émissions de GES à partir d'informations spatiales et non spatiales, produites par des entités publiques et des informations open source.
+
+| Produits                                                                                                                                                                                                                                                                             | Langages                         | Logiciels et Librairies      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ---------------------------- |
+| Conception de la methodologie de traitement des données spatiales et automatization des geoprocessus.<br>Traitement des données au format NetCDF, SHP, GeoJSON, consultation de la base de données Open Street Map.<br>Rédaction de rapports explicatifs des méthodologies proposées | Python<br>ArcPy<br>PyQgis<br>GIT | QGIS 3x<br>ArcGIS Pro<br>VSC |
+
 
 
 ## Job title at company
