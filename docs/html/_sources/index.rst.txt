@@ -20,11 +20,5 @@ Ingénieur Systèmes d'Information Géographique
    education.md
 
 
-
-Menu
-==================
-* :ref:`index`
-* :ref:`search`
-
 .. note ::
-   Download the off-line résumé :download:`Miguel_CV.pdf 📥📁 <./cv_test.pdf>`
+   Télécharger la version off-line de ce résumé :download:`Miguel_CV.pdf 📥📁 <./cv_test.pdf>`
