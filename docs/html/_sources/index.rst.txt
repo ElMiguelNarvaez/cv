@@ -26,5 +26,5 @@ Menu
 * :ref:`index`
 * :ref:`search`
 
-.. note::
+.. note ::
    Download the off-line résumé :download:`Miguel_CV.pdf 📥📁 <./cv_test.pdf>`

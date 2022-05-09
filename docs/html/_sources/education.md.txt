@@ -1,9 +1,9 @@
-# Éducation 🎓
+# Diplômes 🎓
 
-**Master en Géomatique**<br>
-*Université Paris 8, Saint Denis, France, 2022*
+**Master 2 Géomatique, Géodécisionnel, Géomarketing & Multimédia**<br>
+*Université Paris 8 Vincennes - Saint Denis, France, 2022*
 
-▶️ Veuillez regarder dans cette courte vidéo ce que j'ai appris lors du développement de cet master en géomatique
+▶️ Voici une courte vidéo de présentation du Master réalisée dans le cadre de ma formation :
 <iframe width="420" height="315"
 src="https://www.youtube.com/embed/2Fi01aRaq3U">
 </iframe>
@@ -11,8 +11,8 @@ src="https://www.youtube.com/embed/2Fi01aRaq3U">
 **Diplôme Universitaire de Langue Française**<br>
 *Université Sorbonne Nouvelle Paris 3, Paris, France, 2020*
 
-**Diplôme d'Ingenieur Specialite Cadastre et Géodesie**<br>
-*Université Distrital Francisco José de Caldas, Bogota, Colombie, 2012-2018*
+**Diplôme d'Ingenieur Cadastre et Géodesie**<br>
+*Université Districtale Francisco José de Caldas, Bogota, Colombie, 2012-2018*
 
 ## Formations
 
