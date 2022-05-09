@@ -21,4 +21,4 @@ Ingénieur Systèmes d'Information Géographique
 
 
 .. note ::
-   Télécharger la version off-line de ce résumé :download:`Miguel_CV.pdf 📥📁 <./cv_test.pdf>`
+   Télécharger la version off-line de ce résumé :download:`resume.pdf 📥📁 <./CV_Miguel_Narvaez.pdf>`
