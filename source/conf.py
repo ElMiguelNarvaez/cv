@@ -41,6 +41,7 @@ source_suffix = {
 extensions = [
     'sphinx_markdown_tables', # Need to suport markdown
     'myst_parser',
+    'sphinxcontrib.video', # Display videos in sphinx
 ]
 
 # Add any paths that contain templates here, relative to this directory.

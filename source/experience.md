@@ -17,7 +17,7 @@ les caractéristiques techniques des types de moteurs et d'aéronefs, l'identifi
 | Conception, construction et gestion de la base de données                                                                                                                                                                                                                                                                                                                                                                                             | PostgreSQL<br>PostGIS | pgAdmin                                                                                 |
 | Développement :<br> La construction du module est basé sur du Python pur au sein d'un environnement de développement industriel, avec des modules spécialisés dans la capture et le traitement de données spatiales, la connexion à des bases de données sur des serveurs distants et locaux, et la production d'informations spatiales dans des formats adaptés à la visualisation comme GeoJSON, SHP, KML et des formats multidimensionnels comme NetCDF. | Python<br>Git         | VSC<br>Pandas<br>GeoPandas<br>Psicopg<br>SQLALchemy<br>Numpy<br>Beautiful Soup<br>Fuzzy |
 
-![Trajectoires 3D à l'aéroport Charles de Gaulle:](./images/trajectories3D.jpg "User Interface Origins Locator")
+![Trajectoires 3D à l'aéroport Charles de Gaulle:](./images/trajectories3D.jpg "Trajectoires 3D à l'aéroport Charles de Gaulle:")
 
 
 ##### 2. Spatialisation des émissions de CO2 et de CH4 à partir du rapport annuel des émissions de GES à Chypre
@@ -26,8 +26,25 @@ Conception d'une méthodologie permettant de répartir les émissions de GES à 
 
 | Produits                                                                                                                                                                                                                                                                             | Langages                         | Logiciels et Librairies      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ---------------------------- |
-| Conception de la methodologie de traitement des données spatiales et automatization des geoprocessus.<br>Traitement des données au format NetCDF, SHP, GeoJSON, consultation de la base de données Open Street Map.<br>Rédaction de rapports explicatifs des méthodologies proposées | Python<br>ArcPy<br>PyQgis<br>GIT | QGIS 3x<br>ArcGIS Pro<br>VSC |
+| - Conception de la methodologie de traitement des données spatiales et automatization des geoprocessus.<br>- Traitement des données au format NetCDF, SHP, GeoJSON, consultation de la base de données Open Street Map.<br>- Rédaction de rapports explicatifs des méthodologies proposées | Python<br>ArcPy<br>PyQgis<br>GIT | QGIS 3x<br>ArcGIS Pro<br>VSC |
 
+
+##### 3. Présentation des données spatiales
+
+Représentation de données spatiales sous forme de cartes statiques et interactives.
+
+| Produits                            | Langages                                      | Logiciels et Librairies/Frameworks                                                                                                   |
+| ----------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| Cartes 3D interactives et Cartes 2D | JS<br>HTML<br>CSS<br>PHP<br>Node.js<br>Python | DeckGL<br>p5.js<br>Mappa.js<br>Turf.js<br>Leaflet JS<br>Folium<br>Blender GIS<br>Google Earth Studio<br>ArcGIS Pro<br>QGIS<br>VSC |
+
+
+![Carte 3D Marseille:](./images/vuePort.PNG "Carte 3D Marseille")
+
+<video width="320" height="240" controls>
+  <source src="./_static/maps.mp4" type="video/mp4">
+</video>
+
+⚠️ Valeurs produites au hasard avec  le seul l'objectif de générer un produit visuel
 
 
 ## Job title at company
