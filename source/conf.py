@@ -71,8 +71,9 @@ html_title = "CV 📍"
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
+# html_static_path = ['_static/custom.css']
 
-# Adding html options
+# Adding html options to the sidebar
 html_sidebars = {
   '**': [
     "about.html",
@@ -82,4 +83,13 @@ html_sidebars = {
     "donate.html",
     "contact.html",
   ]
+}
+
+
+# Editing themes
+html_theme_options = {
+  'body_text_align': 'justify-all',
+  'sidebar_width' : '20%',
+  'page_width' : '70%',
+
 }
