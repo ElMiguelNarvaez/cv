@@ -3,6 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
+
+.. image:: ./images/vuePortCrop.jpg
+   :width: 700px
+   :height: 100px
+   :scale: 150
+   :alt: alternate text
+   :align: center
+
 Miguel Narvaez
 ==============
 
