@@ -19,6 +19,9 @@ src="https://www.youtube.com/embed/2Fi01aRaq3U">
 **Build a Data Science Web App with Streamlit and Python**<br>
 *Coursera, 2022*
 
+**Front-End Web UI Frameworks and Tool: Bootstrap 4**<br>
+*Coursera, 2022*
+
 **Éléments de Géomatique**<br>
 *Coursera, 2021*
 
