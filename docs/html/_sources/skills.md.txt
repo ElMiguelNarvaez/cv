@@ -21,7 +21,7 @@ Ma curiosité et mon envie d'apprendre toujours davantage perdurent au fil de l'
 - Utilisation de `Python` pur appliqué au développement et à l'automatisation SIG et leurs alliages avec ArcGIS `ArcPy` et QGIS `PyQGIS`
 - Conception `Full Stack` appliqués à la cartographie web interactive `JavaScript`, `HTML5` et `CSS`
 - Utilisation des *frameworks* `JavaScript` pour la construction de cartes web et d'Interfaces Utilisateurs :
-    - `DeckGL`, `Leaflet`, `Turf.js`, `Mappa.js`
+    - `DeckGL`, `Leaflet`, `Turf.js`, `Mappa.js`, `OpenLayers`
     - `Bootstrap`
 - Développement dans un environnement industriel contrôlé par des systèmes de contrôle de version `GIT`
 - Architecture et gestion de bases de données spatiales avec `PostgreSQL` et son extension spatiale `PostGIS`
