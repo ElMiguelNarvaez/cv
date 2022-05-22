@@ -7,35 +7,38 @@ En tant que développeur SIG au sein de la start-up climatique [Origins-Earth](h
 
 ##### 1. Développement d'un module de calcul et spatialisation des émissions de GES du transport aérien
 
-La réalisation de ce projet a nécessité la compréhension du fonctionnement des moteurs aéronautiques,
-des caractéristiques techniques des types de moteurs et d'aéronefs, l'identification et l'exploitation de bases de données d'accès public liées au trafic aérien, la localisation des pistes aéroportuaires et la spatialisation des trajectoires en 3D.
+La réalisation de ce projet a eu trois piliers de développement :
+- Recherche d'Open Data spatiales et non spatiales notamment liées à:
+  - Performance (consommation/émissions) des moteurs en service dans le marché du transporte aerien civile
+  - Localisation des pistes d'aéroport dans le monde
+  - Trafic aérien
+- Création et gestion de la base de données avec PostgreSQL et son extension spatiale PostGIS
+- Developpement du module d'automatisation du calcul et spatialisation 3D des trajectoires et des émissions de CO<sub>2</sub> avec Python
 
 *💡 Pour ce projet, j’ai dirigé aussi l'installation et le paramétrage d'un récepteur de signal [ADS-B](https://fr.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast), qui alimente le module de calcul avec des informations sur le trafic aérien.*
 
 | Produits                                                                                                                                                                                                                                                                                                                                                                                                                                              | Langages              | Logiciels et Librairies                                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------- |
 | Conception, construction et gestion de la base de données                                                                                                                                                                                                                                                                                                                                                                                             | PostgreSQL<br>PostGIS | pgAdmin                                                                                 |
-| Développement :<br> La construction du module est basée sur du Python pur au sein d'un environnement de développement industriel, avec des modules spécialisés dans la capture et le traitement de données spatiales, la connexion à des bases de données sur des serveurs distants et locaux, et la production d'informations spatiales dans des formats adaptés à la visualisation comme GeoJSON, SHP, KML et des formats multidimensionnels comme NetCDF. | Python<br>Git         | VSC<br>Pandas<br>GeoPandas<br>Psicopg<br>PyTest<br>SQLALchemy<br>Numpy<br>Beautiful Soup<br>Fuzzy |
+| Développement :<br> La construction du module est basée sur du Python pur au sein d'un environnement de développement industriel, avec des modules spécialisés dans la capture et le traitement de données spatiales, la connexion à des bases de données sur des serveurs distants et locaux, et la production d'informations spatiales dans des formats adaptés à la visualisation comme GeoJSON, SHP, KML et des formats multidimensionnels comme NetCDF. | Python<br>**Ops:** Git         | **IDE:** VSC<br>Pandas<br>GeoPandas<br>Psicopg<br>PyTest<br>SQLALchemy<br>Numpy<br>Beautiful Soup<br>Fuzzy |
 
 ![Trajectoires 3D à l'aéroport Charles de Gaulle:](./images/trajectories3D.jpg "Trajectoires 3D à l'aéroport Charles de Gaulle:")
 
 
-##### 2. Spatialisation des émissions de CO2 et de CH4 à partir du rapport annuel des émissions de GES à Chypre
+##### 2. Spatialisation des émissions de CO2 et de CH4
 
-Conception d'une méthodologie permettant de répartir les émissions de GES à partir d'informations spatiales et non spatiales, produites par des entités publiques et des informations open source.
+Conception d'une méthodologie permettant de répartir les émissions de GES à partir d'informations spatiales et non spatiales, produites par des entités publiques et des informations *Open Source*.
 
 | Produits                                                                                                                                                                                                                                                                             | Langages                         | Logiciels et Librairies      |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------- | ---------------------------- |
-| - Conception de la methodologie de traitement des données spatiales et automatisation des geoprocessus.<br>- Traitement des données au format NetCDF, SHP, GeoJSON, consultation de la base de données Open Street Map.<br>- Rédaction de rapports explicatifs des méthodologies proposées | Python<br>ArcPy<br>PyQgis<br>GIT | QGIS<br>ArcGIS Pro<br>VSC |
+| - Conception de la methodologie de distribution des emissions de GES par secteur d'activité <br>- Automatisation des geoprocessus<br>- Traitement des données spatiales multidimensionnels NetCDF<br>- Rédaction de documentation des méthodologies proposées | Python<br>ArcPy<br>PyQgis<br>**Ops:** GIT | **IDE:** VSC<br>QGIS<br>ArcGIS Pro<br>GeoPandas<br>Shapely<br>Numpy<br>Open Street Maps<br>OSMnx<br>Sphinx  |
 
 
-##### 3. Présentation des données spatiales
-
-Représentation de données spatiales sous forme de cartes statiques et interactives.
+##### 3. Répresentation des données spatiales
 
 | Produits                            | Langages                                      | Logiciels et Librairies/Frameworks                                                                                                   |
 | ----------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Cartes 3D interactives et Cartes 2D | JS<br>HTML<br>CSS<br>PHP<br>Node.js<br>Python | DeckGL<br>p5.js<br>Mappa.js<br>Turf.js<br>Leaflet JS<br>Folium<br>Blender GIS<br>Google Earth Studio<br>ArcGIS Pro<br>QGIS<br>VSC |
+| Cartographie interactives Web 2.5D et 3D | JavaScript<br>HTML<br>CSS<br>PHP<br>Python<br>**Ops:** GIT | **IDE:** VSC<br>ArcGIS Pro<br>QGIS<br>DeckGL<br>p5.js<br>Mappa.js<br>Turf.js<br>Leaflet JS<br>Folium<br>Blender GIS<br>Google Earth Studio|
 
 
 ![Carte 3D Marseille:](./images/vuePort.PNG "Carte 3D Marseille")

@@ -17,7 +17,7 @@
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Recherche" href="search.html" />
     <link rel="next" title="Aptitudes" href="skills.html" />
-    <link rel="prev" title="A propos de moi 👷" href="profile.html" />
+    <link rel="prev" title="Miguel Narvaez" href="index.html" />
    
   <link rel="stylesheet" href="_static/custom.css" type="text/css" />
   
@@ -42,8 +42,18 @@
 <p>En tant que développeur SIG au sein de la start-up climatique <a class="reference external" href="https://www.origins.earth/notre-demarche">Origins-Earth</a>, dans le cadre de mon alternance de Master en Géomatique, j’ai eu l’opportunité de participer activement aux projets suivants :</p>
 <section id="developpement-d-un-module-de-calcul-et-spatialisation-des-emissions-de-ges-du-transport-aerien">
 <h3>1. Développement d’un module de calcul et spatialisation des émissions de GES du transport aérien<a class="headerlink" href="#developpement-d-un-module-de-calcul-et-spatialisation-des-emissions-de-ges-du-transport-aerien" title="Lien permanent vers ce titre">¶</a></h3>
-<p>La réalisation de ce projet a nécessité la compréhension du fonctionnement des moteurs aéronautiques,
-des caractéristiques techniques des types de moteurs et d’aéronefs, l’identification et l’exploitation de bases de données d’accès public liées au trafic aérien, la localisation des pistes aéroportuaires et la spatialisation des trajectoires en 3D.</p>
+<p>La réalisation de ce projet a eu trois piliers de développement :</p>
+<ul class="simple">
+<li><p>Recherche d’Open Data spatiales et non spatiales notamment liées à:</p>
+<ul>
+<li><p>Performance (consommation/émissions) des moteurs en service dans le marché du transporte aerien civile</p></li>
+<li><p>Localisation des pistes d’aéroport dans le monde</p></li>
+<li><p>Trafic aérien</p></li>
+</ul>
+</li>
+<li><p>Création et gestion de la base de données avec PostgreSQL et son extension spatiale PostGIS</p></li>
+<li><p>Developpement du module d’automatisation du calcul et spatialisation 3D des trajectoires et des émissions de CO<sub>2</sub> avec Python</p></li>
+</ul>
 <p><em>💡 Pour ce projet, j’ai dirigé aussi l’installation et le paramétrage d’un récepteur de signal <a class="reference external" href="https://fr.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast">ADS-B</a>, qui alimente le module de calcul avec des informations sur le trafic aérien.</em></p>
 <table border="1" class="docutils">
 <thead>
@@ -61,16 +71,16 @@ des caractéristiques techniques des types de moteurs et d’aéronefs, l’iden
 </tr>
 <tr>
 <td>Développement :<br> La construction du module est basée sur du Python pur au sein d'un environnement de développement industriel, avec des modules spécialisés dans la capture et le traitement de données spatiales, la connexion à des bases de données sur des serveurs distants et locaux, et la production d'informations spatiales dans des formats adaptés à la visualisation comme GeoJSON, SHP, KML et des formats multidimensionnels comme NetCDF.</td>
-<td>Python<br>Git</td>
-<td>VSC<br>Pandas<br>GeoPandas<br>Psicopg<br>PyTest<br>SQLALchemy<br>Numpy<br>Beautiful Soup<br>Fuzzy</td>
+<td>Python<br><strong>Ops:</strong> Git</td>
+<td><strong>IDE:</strong> VSC<br>Pandas<br>GeoPandas<br>Psicopg<br>PyTest<br>SQLALchemy<br>Numpy<br>Beautiful Soup<br>Fuzzy</td>
 </tr>
 </tbody>
 </table>
 <p><img alt="Trajectoires 3D à l'aéroport Charles de Gaulle:" src="_images/trajectories3D.jpg" /></p>
 </section>
-<section id="spatialisation-des-emissions-de-co2-et-de-ch4-a-partir-du-rapport-annuel-des-emissions-de-ges-a-chypre">
-<h3>2. Spatialisation des émissions de CO2 et de CH4 à partir du rapport annuel des émissions de GES à Chypre<a class="headerlink" href="#spatialisation-des-emissions-de-co2-et-de-ch4-a-partir-du-rapport-annuel-des-emissions-de-ges-a-chypre" title="Lien permanent vers ce titre">¶</a></h3>
-<p>Conception d’une méthodologie permettant de répartir les émissions de GES à partir d’informations spatiales et non spatiales, produites par des entités publiques et des informations open source.</p>
+<section id="spatialisation-des-emissions-de-co2-et-de-ch4">
+<h3>2. Spatialisation des émissions de CO2 et de CH4<a class="headerlink" href="#spatialisation-des-emissions-de-co2-et-de-ch4" title="Lien permanent vers ce titre">¶</a></h3>
+<p>Conception d’une méthodologie permettant de répartir les émissions de GES à partir d’informations spatiales et non spatiales, produites par des entités publiques et des informations <em>Open Source</em>.</p>
 <table border="1" class="docutils">
 <thead>
 <tr>
@@ -81,16 +91,15 @@ des caractéristiques techniques des types de moteurs et d’aéronefs, l’iden
 </thead>
 <tbody>
 <tr>
-<td>- Conception de la methodologie de traitement des données spatiales et automatisation des geoprocessus.<br>- Traitement des données au format NetCDF, SHP, GeoJSON, consultation de la base de données Open Street Map.<br>- Rédaction de rapports explicatifs des méthodologies proposées</td>
-<td>Python<br>ArcPy<br>PyQgis<br>GIT</td>
-<td>QGIS<br>ArcGIS Pro<br>VSC</td>
+<td>- Conception de la methodologie de distribution des emissions de GES par secteur d'activité <br>- Automatisation des geoprocessus<br>- Traitement des données spatiales multidimensionnels NetCDF<br>- Rédaction de documentation des méthodologies proposées</td>
+<td>Python<br>ArcPy<br>PyQgis<br><strong>Ops:</strong> GIT</td>
+<td><strong>IDE:</strong> VSC<br>QGIS<br>ArcGIS Pro<br>GeoPandas<br>Shapely<br>Numpy<br>Open Street Maps<br>OSMnx<br>Sphinx</td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="presentation-des-donnees-spatiales">
-<h3>3. Présentation des données spatiales<a class="headerlink" href="#presentation-des-donnees-spatiales" title="Lien permanent vers ce titre">¶</a></h3>
-<p>Représentation de données spatiales sous forme de cartes statiques et interactives.</p>
+<section id="representation-des-donnees-spatiales">
+<h3>3. Répresentation des données spatiales<a class="headerlink" href="#representation-des-donnees-spatiales" title="Lien permanent vers ce titre">¶</a></h3>
 <table border="1" class="docutils">
 <thead>
 <tr>
@@ -101,9 +110,9 @@ des caractéristiques techniques des types de moteurs et d’aéronefs, l’iden
 </thead>
 <tbody>
 <tr>
-<td>Cartes 3D interactives et Cartes 2D</td>
-<td>JS<br>HTML<br>CSS<br>PHP<br>Node.js<br>Python</td>
-<td>DeckGL<br>p5.js<br>Mappa.js<br>Turf.js<br>Leaflet JS<br>Folium<br>Blender GIS<br>Google Earth Studio<br>ArcGIS Pro<br>QGIS<br>VSC</td>
+<td>Cartographie interactives Web 2.5D et 3D</td>
+<td>JavaScript<br>HTML<br>CSS<br>PHP<br>Python<br><strong>Ops:</strong> GIT</td>
+<td><strong>IDE:</strong> VSC<br>ArcGIS Pro<br>QGIS<br>DeckGL<br>p5.js<br>Mappa.js<br>Turf.js<br>Leaflet JS<br>Folium<br>Blender GIS<br>Google Earth Studio</td>
 </tr>
 </tbody>
 </table>
@@ -149,7 +158,6 @@ des caractéristiques techniques des types de moteurs et d’aéronefs, l’iden
 
 <h3>Navigation</h3>
 <ul class="current">
-<li class="toctree-l1"><a class="reference internal" href="profile.html">A propos de moi 👷</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Expériences</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#developpeur-sig">Développeur SIG</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#ingenieur-cadastral">Ingénieur Cadastral</a></li>
@@ -164,7 +172,7 @@ des caractéristiques techniques des types de moteurs et d’aéronefs, l’iden
 <h3>Related Topics</h3>
 <ul>
   <li><a href="index.html">Documentation overview</a><ul>
-      <li>Previous: <a href="profile.html" title="Chapitre précédent">A propos de moi 👷</a></li>
+      <li>Previous: <a href="index.html" title="Chapitre précédent">Miguel Narvaez</a></li>
       <li>Next: <a href="skills.html" title="Chapitre suivant">Aptitudes</a></li>
   </ul></li>
 </ul>

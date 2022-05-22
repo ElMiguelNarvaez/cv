@@ -1,6 +1,6 @@
  # Aptitudes
 
-Grâce à ma formation d'ingénieur et aux expériences mentionnées, j'ai pu comprendre et appliquer des concepts et des compétences au sein du traitement et de la représentation de données spatiales par la géomatique.
+Grâce à ma formation d'ingénieur et aux expériences mentionnées, j'ai pu comprendre et appliquer des concepts et des compétences dans le traitement et de la représentation de données spatiales par la géomatique.
 
 Ma curiosité et mon envie d'apprendre toujours davantage perdurent au fil de l'expérience que j'acquiers.
 
@@ -23,18 +23,21 @@ Ma curiosité et mon envie d'apprendre toujours davantage perdurent au fil de l'
 - Utilisation des *frameworks* `JavaScript` pour la construction de cartes web et d'Interfaces Utilisateurs :
     - `DeckGL`, `Leaflet`, `Turf.js`, `Mappa.js`, `OpenLayers`
     - `Bootstrap`
-- Développement dans un environnement industriel contrôlé par des systèmes de contrôle de version `GIT`
+- Développement dans un environnement industriel contrôlé par des systèmes de contrôle de version `GitOps`
 - Architecture et gestion de bases de données spatiales avec `PostgreSQL` et son extension spatiale `PostGIS`
-- Récolte des données spatiales *Open Source* via `API Overpass Turbo` vers la base de données `Open Street Maps`
+- Récolte des données spatiales *Open Source* via `API Overpass Turbo`
 - Production de documentation avec `Python Sphinx`, `Python MkDocs` et `GitHub`
+- Récupération d'informations spatiales issues de la télédétection et traitement d'images satellitaires
 
 **Notions de Base**
 - AutoCAD
 - Blender GIS
 - Django
+- Docker
 - FME
 - GeoConcept
 - Google Earth Engine
+- Google Cloud Platform
 - MapBox Studio
 - SHELL
 - Streamlit

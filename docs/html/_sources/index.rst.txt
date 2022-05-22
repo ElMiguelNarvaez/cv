@@ -22,7 +22,6 @@ Ingénieur Systèmes d'Information Géographique
 .. toctree::
    :maxdepth: 2
 
-   profile.md
    experience.md
    skills.md
    education.md
