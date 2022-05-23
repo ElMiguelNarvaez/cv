@@ -19,7 +19,7 @@ Ma curiosité et mon envie d'apprendre toujours davantage perdurent au fil de l'
 
 **Compétences techniques**
 - Utilisation de `Python` pur appliqué au développement et à l'automatisation SIG et leurs alliages avec ArcGIS `ArcPy` et QGIS `PyQGIS`
-- Conception `Full Stack` appliqués à la cartographie web interactive `JavaScript`, `HTML5` et `CSS`
+- Conception `Full Stack` appliqués à la cartographie web interactive `JavaScript`, `HTML5` et `CSS` et le Serveur Web `Apache`
 - Utilisation des *frameworks* `JavaScript` pour la construction de cartes web et d'Interfaces Utilisateurs :
     - `DeckGL`, `Leaflet`, `Turf.js`, `Mappa.js`, `OpenLayers`
     - `Bootstrap`

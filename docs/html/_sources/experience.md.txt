@@ -38,7 +38,7 @@ Conception d'une méthodologie permettant de répartir les émissions de GES à 
 
 | Produits                            | Langages                                      | Logiciels et Librairies/Frameworks                                                                                                   |
 | ----------------------------------- | --------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| Cartographie interactives Web 2.5D et 3D | JavaScript<br>HTML<br>CSS<br>PHP<br>Python<br>**Ops:** GIT | **IDE:** VSC<br>ArcGIS Pro<br>QGIS<br>DeckGL<br>p5.js<br>Mappa.js<br>Turf.js<br>Leaflet JS<br>Folium<br>Blender GIS<br>Google Earth Studio|
+| Cartographie interactives Web 2.5D et 3D | JavaScript<br>HTML<br>CSS<br>PHP<br>Python<br>**Ops:** GIT | **IDE:** VSC<br>ArcGIS Pro<br>QGIS<br>Apache Web Server<br>DeckGL<br>p5.js<br>Mappa.js<br>Turf.js<br>Leaflet JS<br>Folium<br>Blender GIS<br>Google Earth Studio|
 
 
 ![Carte 3D Marseille:](./images/vuePort.PNG "Carte 3D Marseille")
