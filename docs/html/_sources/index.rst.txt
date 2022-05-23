@@ -15,7 +15,7 @@ Miguel Narvaez
 ==============
 
 
-Ingénieur Systèmes d'Information Géographique
+Ingénieur Géomaticien
 #############################################
 
 
