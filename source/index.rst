@@ -28,4 +28,4 @@ Ingénieur Géomaticien
 
 
 .. note ::
-   Télécharger la version off-line de ce résumé :download:`MiguelNarvaez.pdf 📥📁 <./CV_Miguel_Narvaez.pdf>`
+   Télécharger Résumé :download:`MiguelNarvaez.pdf 📥📁 <./CV_Miguel_Narvaez.pdf>`
