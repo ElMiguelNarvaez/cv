@@ -30,7 +30,7 @@ Ma curiosité et mon envie d'apprendre toujours davantage perdurent au fil de l'
     - `DeckGL`, `Leaflet`, `Turf.js`, `Mappa.js`, `OpenLayers`
 - Développement dans un environnement industriel contrôlé
 - Récolte des données spatiales *Open Source*
-- Production de documentation avec `Python Sphinx`, `Python MkDocs` et `GitHub`
+- Rédaction de documentation avec `Python Sphinx`, `Python MkDocs` et `GitHub`
 - Récupération d'informations spatiales issues de la télédétection et traitement d'images satellitaires
 
 **Compétences en voie de développement**
