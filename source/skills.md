@@ -47,4 +47,4 @@ Ma curiosité et mon envie d'apprendre toujours davantage perdurent au fil de l'
 - Python Streamlit
 - React.js
 
-\* <text style='color:#79C753;'>Mieux maîtrise</text>
+\* <text style='color:#79C753;'>Meilleure maîtrise</text>
