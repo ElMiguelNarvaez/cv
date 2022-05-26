@@ -19,26 +19,32 @@ Ma curiosité et mon envie d'apprendre toujours davantage perdurent au fil de l'
 
 **Compétences techniques**
 - Utilisation de `Python` pur appliqué au développement et à l'automatisation SIG et leurs alliages avec ArcGIS `ArcPy` et QGIS `PyQGIS`
-- Conception `Full Stack` appliqués à la cartographie web interactive `JavaScript`, `HTML5` et `CSS` et le Serveur Web `Apache`
+
+- Développement **Full Stack\*** appliqués à la cartographie web interactive :
+    - <strong style='font-size:13px;'>FRONTEND : </strong> <code style='color:#79C753; background-color: transparent;'>HTML5</code>, <code style='color:#79C753; background-color: transparent;'>CSS</code>, <code style='color:#79C753; background-color: transparent;'>Bootstrap</code>, <code style='color:#FAE03C; background-color: transparent;'>JavaScript</code>
+    - <strong style='font-size:13px;'>BACKEND : </strong> <code style='color:#79C753; background-color: transparent;'>Python</code>, <code style='color:#FAE03C; background-color: transparent;'>JavaScript</code>, <code style='color:#FAE03C; background-color: transparent;'>PHP</code>
+    - <strong style='font-size:13px;'>DATABASE : </strong> <code style='color:#79C753; background-color: transparent;'>MySQL</code>, <code style='color:#79C753; background-color: transparent;'>PostgresSQL - PostGIS</code>
+    - <strong style='font-size:13px;'>CLOUD : </strong> <code style='color:#FAE03C; background-color: transparent;'>Google Cloud</code>, <code style='color:#FAE03C; background-color: transparent;'>AWS</code>, <code style='color:#FAE03C; background-color: transparent;'>Azure</code>
+    - <strong style='font-size:13px;'>UI/UX TOOLS : </strong> <code style='color:#79C753; background-color: transparent;'>Figma</code>, <code style='color:#79C753; background-color: transparent;'>Visual Studio Code</code>, <code style='color:#79C753; background-color: transparent;'>Git</code>
 - Utilisation des *frameworks* `JavaScript` pour la construction de cartes web et d'Interfaces Utilisateurs :
     - `DeckGL`, `Leaflet`, `Turf.js`, `Mappa.js`, `OpenLayers`
-    - `Bootstrap`
-- Développement dans un environnement industriel contrôlé par des systèmes de contrôle de version `GitOps`
-- Architecture et gestion de bases de données spatiales avec `PostgreSQL` et son extension spatiale `PostGIS`
-- Récolte des données spatiales *Open Source* via `API Overpass Turbo`
+- Développement dans un environnement industriel contrôlé
+- Récolte des données spatiales *Open Source*
 - Production de documentation avec `Python Sphinx`, `Python MkDocs` et `GitHub`
 - Récupération d'informations spatiales issues de la télédétection et traitement d'images satellitaires
 
-**Notions de Base**
+**Compétences en voie de développement**
 - AutoCAD
 - Blender GIS
 - Django
 - Docker
 - FME
+- JAVA
 - GeoConcept
 - Google Earth Engine
-- Google Cloud Platform
 - MapBox Studio
 - SHELL
-- Streamlit
+- Python Streamlit
 - React.js
+
+\* <text style='color:#79C753;'>Mieux maîtrise</text>
