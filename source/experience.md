@@ -1,6 +1,6 @@
 # Expériences
 
-## Ingénieur SIG — Airparif (observatoire de la qualité de l'air)
+## Ingénieur Geomaticienne — Airparif (observatoire de la qualité de l'air)
 *Depuis Septembre 2022*
 
 En tant qu'ingénieur SIG au sein de l'association [Airparif](https://www.airparif.fr/), j'interviens de manière transversale sur un large éventail de projets.

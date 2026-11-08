@@ -11,6 +11,9 @@
 
 ## Formations
 
+**DeckGL Open Visualization Collaborators Summit**
+*Zurich, 2026* 
+
 **Intelligence artificielle & Traitement d'images**<br>
 *École nationale des sciences géographiques ENSG, 2025*
 
