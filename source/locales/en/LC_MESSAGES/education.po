@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Miguel Narvaez \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-08 15:44+0100\n"
+"POT-Creation-Date: 2026-11-08 19:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Miguel Narvaez\n"
 "Language: en\n"
@@ -47,6 +47,10 @@ msgid "Formations"
 msgstr "Professional training"
 
 #: ../../../../Documents/cv/source/education.md:14
+msgid "**DeckGL Open Visualization Collaborators Summit**<br> *Zurich, 2026*"
+msgstr "**DeckGL Open Visualization Collaborators Summit**<br> *Zurich, 2026*"
+
+#: ../../../../Documents/cv/source/education.md:17
 msgid ""
 "**Intelligence artificielle & Traitement d'images**<br> *École nationale des sciences "
 "géographiques ENSG, 2025*"
@@ -54,7 +58,7 @@ msgstr ""
 "**Artificial Intelligence & Image Processing**<br> *École nationale des sciences géographiques "
 "(ENSG), 2025*"
 
-#: ../../../../Documents/cv/source/education.md:17
+#: ../../../../Documents/cv/source/education.md:20
 msgid ""
 "**Présentations et traitement sur le Lidar HD IGN**<br> *École nationale des sciences "
 "géographiques ENSG, 2025*"
@@ -62,15 +66,15 @@ msgstr ""
 "**Presentations and Processing of IGN HD Lidar Data**<br> *École nationale des sciences "
 "géographiques (ENSG), 2025*"
 
-#: ../../../../Documents/cv/source/education.md:20
+#: ../../../../Documents/cv/source/education.md:23
 msgid "**Build a Data Science Web App with Streamlit and Python**<br> *Coursera, 2022*"
 msgstr "**Build a Data Science Web App with Streamlit and Python**<br> *Coursera, 2022*"
 
-#: ../../../../Documents/cv/source/education.md:23
+#: ../../../../Documents/cv/source/education.md:26
 msgid "**Front-End Web UI Frameworks and Tools: Bootstrap 4**<br> *Coursera, 2022*"
 msgstr "**Front-End Web UI Frameworks and Tools: Bootstrap 4**<br> *Coursera, 2022*"
 
-#: ../../../../Documents/cv/source/education.md:26
+#: ../../../../Documents/cv/source/education.md:29
 msgid "**Éléments de Géomatique**<br> *Coursera, 2021*"
 msgstr "**Elements of Geomatics (Éléments de Géomatique)**<br> *Coursera, 2021*"
 

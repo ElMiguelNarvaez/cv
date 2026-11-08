@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Miguel Narvaez \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-11-08 16:01+0100\n"
+"POT-Creation-Date: 2026-11-08 19:36+0100\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: Miguel Narvaez\n"
 "Language: en\n"
@@ -19,8 +19,8 @@ msgid "Expériences"
 msgstr "Experience"
 
 #: ../../../../Documents/cv/source/experience.md:3
-msgid "Ingénieur SIG — Airparif (observatoire de la qualité de l'air)"
-msgstr "GIS Engineer — Airparif (air quality observatory)"
+msgid "Ingénieur Géomaticien — Airparif (observatoire de la qualité de l'air)"
+msgstr "Geomatics Engineer — Airparif (air quality observatory)"
 
 #: ../../../../Documents/cv/source/experience.md:4
 msgid "*Depuis Septembre 2022*"
