@@ -1,0 +1,185 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Miguel Narvaez \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-08 15:44+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Miguel Narvaez\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../../../Documents/cv/source/skills.md:1
+msgid "Aptitudes"
+msgstr "Skills"
+
+#: ../../../../Documents/cv/source/skills.md:3
+msgid ""
+"Grâce à ma formation d'ingénieur et aux expériences mentionnées, j'ai pu comprendre et appliquer "
+"des concepts et des compétences dans le traitement et la représentation de données spatiales par "
+"la géomatique."
+msgstr ""
+"Thanks to my engineering training and the experience described above, I have been able to "
+"understand and apply concepts and skills in the processing and representation of spatial data "
+"through geomatics."
+
+#: ../../../../Documents/cv/source/skills.md:5
+msgid ""
+"Ma curiosité et mon envie d'apprendre toujours davantage perdurent au fil de l'expérience que "
+"j'acquiers."
+msgstr "My curiosity and my desire to keep learning endure as I gain experience."
+
+#: ../../../../Documents/cv/source/skills.md:7
+msgid "**Compétences personnelles**"
+msgstr "**Personal skills**"
+
+#: ../../../../Documents/cv/source/skills.md:8
+msgid "Capacité d'auto-apprentissage"
+msgstr "Self-learning ability"
+
+#: ../../../../Documents/cv/source/skills.md:9
+msgid "Rigueur et motivation"
+msgstr "Rigour and motivation"
+
+#: ../../../../Documents/cv/source/skills.md:10
+msgid "Capacité de recherche"
+msgstr "Research ability"
+
+#: ../../../../Documents/cv/source/skills.md:11
+msgid "Je parle couramment :"
+msgstr "I am fluent in:"
+
+#: ../../../../Documents/cv/source/skills.md:12
+msgid "Français"
+msgstr "French"
+
+#: ../../../../Documents/cv/source/skills.md:13
+msgid "Anglais"
+msgstr "English"
+
+#: ../../../../Documents/cv/source/skills.md:14
+msgid "Espagnol"
+msgstr "Spanish"
+
+#: ../../../../Documents/cv/source/skills.md:16
+msgid "**Compétences interpersonnelles**"
+msgstr "**Interpersonal skills**"
+
+#: ../../../../Documents/cv/source/skills.md:17
+msgid "Intégration et travail d'équipe"
+msgstr "Team integration and teamwork"
+
+#: ../../../../Documents/cv/source/skills.md:18
+msgid "Empathie"
+msgstr "Empathy"
+
+#: ../../../../Documents/cv/source/skills.md:19
+msgid "Fiabilité"
+msgstr "Reliability"
+
+#: ../../../../Documents/cv/source/skills.md:23
+msgid "**Compétences techniques**"
+msgstr "**Technical skills**"
+
+#: ../../../../Documents/cv/source/skills.md:25
+msgid ""
+"**Ingénierie SIG & modélisation géospatiale** : expertise Python appliquée à la modélisation "
+"atmosphérique, l'automatisation SIG et la conception de modules géospatiaux industriels"
+msgstr ""
+"**GIS engineering & geospatial modelling**: Python expertise applied to atmospheric modelling, "
+"GIS automation and the design of industrial geospatial modules"
+
+#: ../../../../Documents/cv/source/skills.md:27
+msgid ""
+"**Bases de données spatiales** : <code style='color:#79C753; background-color: "
+"transparent;'>PostgreSQL / PostGIS</code>, <code style='color:#79C753; background-color: "
+"transparent;'>MySQL</code>, conception et administration d'infrastructures de données spatiales "
+"(SDI), métadonnées et plans de gestion des données"
+msgstr ""
+"**Spatial databases**: <code style='color:#79C753; background-color: transparent;'>PostgreSQL / "
+"PostGIS</code>, <code style='color:#79C753; background-color: transparent;'>MySQL</code>, design "
+"and administration of spatial data infrastructures (SDI), metadata and data management plans"
+
+#: ../../../../Documents/cv/source/skills.md:29
+msgid ""
+"**Serveurs cartographiques & services web** : administration <code style='color:#79C753; "
+"background-color: transparent;'>GeoServer</code> sur serveurs <code style='color:#79C753; "
+"background-color: transparent;'>Linux</code> — publication de services WMS/WMTS/WFS, API "
+"cartographiques et portails Open Data"
+msgstr ""
+"**Map servers & web services**: administration of <code style='color:#79C753; background-color: "
+"transparent;'>GeoServer</code> on <code style='color:#79C753; background-color: "
+"transparent;'>Linux</code> — publishing WMS/WMTS/WFS services, mapping APIs and Open Data portals"
+
+#: ../../../../Documents/cv/source/skills.md:31
+msgid ""
+"**DevOps & CI/CD** : <code style='color:#79C753; background-color: transparent;'>Git</code>, "
+"<code style='color:#79C753; background-color: transparent;'>GitLab</code> (pipelines de "
+"compilation et de déploiement, tests automatisés), conteneurisation et déploiement de chaînes de "
+"traitement opérationnelles"
+msgstr ""
+"**DevOps & CI/CD**: <code style='color:#79C753; background-color: transparent;'>Git</code>, <code"
+" style='color:#79C753; background-color: transparent;'>GitLab</code> (build and deployment "
+"pipelines, automated tests), containerisation and deployment of operational processing chains"
+
+#: ../../../../Documents/cv/source/skills.md:33
+msgid ""
+"**Cartographie web interactive** (front-end) : <code style='color:#79C753; background-color: "
+"transparent;'>DeckGL | PyDeck</code>, <code style='color:#FAE03C; background-color: "
+"transparent;'>JavaScript</code>, <code style='color:#79C753; background-color: "
+"transparent;'>Leaflet</code>, <code style='color:#79C753; background-color: "
+"transparent;'>OpenLayers</code>, <code style='color:#79C753; background-color: "
+"transparent;'>HTML5</code>, <code style='color:#79C753; background-color: "
+"transparent;'>CSS</code>"
+msgstr ""
+"**Interactive web mapping** (front-end): <code style='color:#79C753; background-color: "
+"transparent;'>DeckGL | PyDeck</code>, <code style='color:#FAE03C; background-color: "
+"transparent;'>JavaScript</code>, <code style='color:#79C753; background-color: "
+"transparent;'>Leaflet</code>, <code style='color:#79C753; background-color: "
+"transparent;'>OpenLayers</code>, <code style='color:#79C753; background-color: "
+"transparent;'>HTML5</code>, <code style='color:#79C753; background-color: "
+"transparent;'>CSS</code>"
+
+#: ../../../../Documents/cv/source/skills.md:35
+msgid ""
+"**Cloud** : <code style='color:#79C753; background-color: transparent;'>Serveurs Linux</code>, "
+"<code style='color:#FAE03C; background-color: transparent;'>AWS</code>, <code "
+"style='color:#FAE03C; background-color: transparent;'>Azure</code>"
+msgstr ""
+"**Cloud**: <code style='color:#79C753; background-color: transparent;'>Linux servers</code>, "
+"<code style='color:#FAE03C; background-color: transparent;'>AWS</code>, <code "
+"style='color:#FAE03C; background-color: transparent;'>Azure</code>"
+
+#: ../../../../Documents/cv/source/skills.md:37
+msgid "**Compétences en voie de développement**"
+msgstr "**Skills under development**"
+
+#: ../../../../Documents/cv/source/skills.md:38
+msgid "IA appliquée à la Géomatique"
+msgstr "AI applied to Geomatics"
+
+#: ../../../../Documents/cv/source/skills.md:39
+msgid "Blender GIS"
+msgstr "Blender GIS"
+
+#: ../../../../Documents/cv/source/skills.md:40
+msgid "Django"
+msgstr "Django"
+
+#: ../../../../Documents/cv/source/skills.md:41
+msgid "Google Earth Engine"
+msgstr "Google Earth Engine"
+
+#: ../../../../Documents/cv/source/skills.md:42
+msgid "React.js"
+msgstr "React.js"
+
+#: ../../../../Documents/cv/source/skills.md:44
+msgid "<span style='color:#79C753;'>En vert : meilleure maîtrise</span>"
+msgstr "<span style='color:#79C753;'>In green: strongest skills</span>"
+

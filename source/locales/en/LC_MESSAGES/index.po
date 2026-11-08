@@ -1,0 +1,32 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Miguel Narvaez \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-08 16:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Miguel Narvaez\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../../../Documents/cv/source/index.rst:7
+msgid "Vue 3D du port de Marseille"
+msgstr "3D view of the port of Marseille"
+
+#: ../../../../Documents/cv/source/index.rst:15
+msgid "Miguel Narvaez"
+msgstr "Miguel Narvaez"
+
+#: ../../../../Documents/cv/source/index.rst:19
+msgid "Ingénieur Géomaticien"
+msgstr "Geomatics Engineer"
+
+#: ../../../../Documents/cv/source/index.rst:31
+msgid "Télécharger le CV :download:`MiguelNarvaez.pdf 📥📁 <./CV_Miguel_Narvaez.pdf>`"
+msgstr "Download the CV :download:`MiguelNarvaez.pdf 📥📁 <./CV_Miguel_Narvaez.pdf>`"
+

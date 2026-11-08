@@ -1,0 +1,49 @@
+/* Light overrides on top of the Furo theme. */
+article p,
+article li {
+    text-align: justify;
+    hyphens: auto;
+}
+
+article table.docutils {
+    display: block;
+    overflow-x: auto;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+}
+
+article video {
+    max-width: 100%;
+    height: auto;
+}
+
+.sidebar-contact {
+    padding: 0 var(--sidebar-item-spacing-horizontal);
+    font-size: var(--font-size--small);
+    font-weight: bold;
+}
+
+/* Language switch: stands out as a pill, with room before the contact block */
+.sidebar-lang {
+    margin-top: 1rem;
+}
+
+.sidebar-lang a {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border: 1px solid var(--color-brand-primary);
+    border-radius: 1rem;
+    text-decoration: none;
+}
+
+.sidebar-lang a:hover {
+    background: var(--color-sidebar-item-background--hover);
+}
+
+.sidebar-contact--info {
+    margin-top: 2.5rem;
+    font-style: normal;
+}

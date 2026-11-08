@@ -19,7 +19,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Miguel Narvaez'
-copyright = '2022, Miguel Narvaez'
+copyright = '2022-2026, Miguel Narvaez'
 author = 'Miguel Narvaez'
 
 # The full version, including alpha/beta/rc tags
@@ -39,8 +39,7 @@ source_suffix = {
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
-    'sphinx_markdown_tables', # Need to suport markdown
-    'myst_parser',
+    'myst_parser',  # Markdown support (tables included)
     'sphinxcontrib.video', # Display videos in sphinx
 ]
 
@@ -53,6 +52,10 @@ templates_path = ['_templates']
 # This is also used if you do content translation via gettext catalogs.
 # Usually you set "language" from the command line for these cases.
 language = 'fr'
+locale_dirs = ['locales/']
+gettext_compact = False  # one .po file per page
+
+
 
 # List of patterns, relative to sources directory, that match files and
 # directories to ignore when looking for source files.
@@ -60,38 +63,34 @@ language = 'fr'
 exclude_patterns = []
 
 
+# MyST: extra markdown syntax
+myst_enable_extensions = [
+    'colon_fence',
+    'linkify',
+]
+myst_heading_anchors = 3
+
 # -- Options for HTML output -------------------------------------------------
 
-# The theme to use for HTML and HTML Help pages.  See the documentation for
-# a list of builtin themes.
-#
-html_theme = 'alabaster'
-html_title = "CV 📍"
+html_theme = 'furo'  # responsive, light/dark mode, built-in mobile sidebar
+html_title = '📍'
 
-# Add any paths that contain custom static files (such as style sheets) here,
-# relative to this directory. They are copied after the builtin static files,
-# so a file named "default.css" will overwrite the builtin "default.css".
-# html_static_path = ['_static']
-html_static_path = ['./_static/custom.css']
+html_static_path = ['_static']
+html_css_files = ['custom.css']
 
-# Adding html options to the sidebar
 html_sidebars = {
-  '**': [
-    "about.html",
-    "navigation.html",
-    "relations.html",
-    "searchbox.html",
-    "donate.html",
-    "contact.html",
-  ]
+    '**': [
+        'sidebar/scroll-start.html',
+        'sidebar/brand.html',
+        'sidebar/search.html',
+        'sidebar/navigation.html',
+        'lang.html',
+        'contact.html',
+        'sidebar/scroll-end.html',
+    ]
 }
 
-
-# Editing themes
 html_theme_options = {
-  'body_text_align': 'justify-all',
-  'sidebar_width' : '20%',
-  'page_width' : '70%',
+    'sidebar_hide_name': False,
+    'navigation_with_keys': True,
 }
-
-# html_logo = './images/vuePort.PNG'

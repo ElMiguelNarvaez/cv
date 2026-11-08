@@ -4,11 +4,11 @@
    contain the root `toctree` directive.
 
 
-.. image:: ./images/vuePortCrop.jpg
+.. image:: ./images/vuePortCrop.JPG
    :width: 700px
    :height: 100px
    :scale: 150
-   :alt: alternate text
+   :alt: Vue 3D du port de Marseille
    :align: center
 
 Miguel Narvaez
@@ -28,4 +28,4 @@ Ingénieur Géomaticien
 
 
 .. note ::
-   Télécharger Résumé :download:`MiguelNarvaez.pdf 📥📁 <./CV_Miguel_Narvaez.pdf>`
+   Télécharger le CV :download:`MiguelNarvaez.pdf 📥📁 <./CV_Miguel_Narvaez.pdf>`

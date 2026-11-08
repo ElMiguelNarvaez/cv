@@ -1,0 +1,319 @@
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Miguel Narvaez \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-11-08 16:01+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Miguel Narvaez\n"
+"Language: en\n"
+"Language-Team: en <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../../../Documents/cv/source/experience.md:1
+msgid "Expériences"
+msgstr "Experience"
+
+#: ../../../../Documents/cv/source/experience.md:3
+msgid "Ingénieur SIG — Airparif (observatoire de la qualité de l'air)"
+msgstr "GIS Engineer — Airparif (air quality observatory)"
+
+#: ../../../../Documents/cv/source/experience.md:4
+msgid "*Depuis Septembre 2022*"
+msgstr "*Since September 2022*"
+
+#: ../../../../Documents/cv/source/experience.md:6
+msgid ""
+"En tant qu'ingénieur SIG au sein de l'association [Airparif](https://www.airparif.fr/), "
+"j'interviens de manière transversale sur un large éventail de projets."
+msgstr ""
+"As a GIS engineer at the [Airparif](https://www.airparif.fr/) association, I work across a wide "
+"range of projects."
+
+#: ../../../../Documents/cv/source/experience.md:8
+msgid "1. Chaîne opérationnelle de prévision de la qualité de l'air"
+msgstr "1\\. Operational air quality forecasting chain"
+
+#: ../../../../Documents/cv/source/experience.md:10
+msgid ""
+"Préparation des données d'entrée et validation des résultats des modèles de qualité de l'air par "
+"rapport aux stations de mesure ;"
+msgstr ""
+"Preparing the input data and validating the air quality model results against measurement "
+"stations;"
+
+#: ../../../../Documents/cv/source/experience.md:11
+msgid ""
+"Transformation des sorties des modèles (NetCDF, Zarr) en produits et services cartographiques "
+"publiables via GeoServer et des API ;"
+msgstr ""
+"Transforming the model outputs (NetCDF, Zarr) into mapping products and services that can be "
+"published via GeoServer and APIs;"
+
+#: ../../../../Documents/cv/source/experience.md:12
+msgid ""
+"Automatisation et industrialisation du pipeline complet (exécution quotidienne) avec un flux "
+"DevOps sur GitLab."
+msgstr ""
+"Automating and industrialising the complete pipeline (daily execution) with a DevOps workflow on "
+"GitLab."
+
+#: ../../../../Documents/cv/source/experience.md:15
+msgid "2. Cartographie et architecture SIG"
+msgstr "2\\. Mapping and GIS architecture"
+
+#: ../../../../Documents/cv/source/experience.md:17
+msgid ""
+"Installation, sécurisation et maintenance de l'infrastructure GeoServer sur des serveurs Linux, "
+"afin de publier des services cartographiques et des produits API destinés aux sites web, aux "
+"applications, au portail Open Data et aux besoins des clients ;"
+msgstr ""
+"Installing, securing and maintaining the GeoServer infrastructure on Linux servers, to publish "
+"mapping services and API products for websites, applications, the Open Data portal and client "
+"needs;"
+
+#: ../../../../Documents/cv/source/experience.md:18
+msgid ""
+"Gestion des bases de données spatiales (PostGIS), des infrastructures de données spatiales et des"
+" métadonnées ;"
+msgstr "Managing spatial databases (PostGIS), spatial data infrastructures and metadata;"
+
+#: ../../../../Documents/cv/source/experience.md:19
+msgid ""
+"Transformation de données atmosphériques complexes en cartes claires, destinées au grand public "
+"et aux décideurs."
+msgstr "Turning complex atmospheric data into clear maps for the general public and decision-makers."
+
+#: ../../../../Documents/cv/source/experience.md:21
+msgid "3. Développement Python et formation"
+msgstr "3\\. Python development and training"
+
+#: ../../../../Documents/cv/source/experience.md:23
+msgid ""
+"Création de scripts Python/Git pour les outils géospatiaux liés à la modélisation de la qualité "
+"de l'air et à l'automatisation CI/CD ;"
+msgstr ""
+"Writing Python/Git scripts for geospatial tools related to air quality modelling and CI/CD "
+"automation;"
+
+#: ../../../../Documents/cv/source/experience.md:24
+msgid ""
+"Formation de collègues sans connaissance préalable des outils SIG open source (QGIS, Python pour "
+"QGIS)."
+msgstr "Training colleagues with no prior knowledge of open-source GIS tools (QGIS, Python for QGIS)."
+
+#: ../../../../Documents/cv/source/experience.md:26
+msgid "4. Gestion des données"
+msgstr "4\\. Data management"
+
+#: ../../../../Documents/cv/source/experience.md:28
+msgid ""
+"Mise en place d'un plan de gestion des données garantissant la fiabilité, la documentation "
+"(métadonnées générées automatiquement) et l'accessibilité, en interne comme en externe (portail "
+"Open Data et API), des jeux de données."
+msgstr ""
+"Setting up a data management plan that ensures the reliability, documentation (automatically "
+"generated metadata) and accessibility, both internal and external (Open Data portal and APIs), of"
+" datasets."
+
+#: ../../../../Documents/cv/source/experience.md:31
+msgid "Développeur SIG — Origins-Earth (start-up climatique)"
+msgstr "GIS Developer — Origins-Earth (climate start-up)"
+
+#: ../../../../Documents/cv/source/experience.md:32
+msgid "*Juin 2020 - Septembre 2022*"
+msgstr "*June 2020 - September 2022*"
+
+#: ../../../../Documents/cv/source/experience.md:34
+msgid ""
+"En tant que développeur SIG au sein de la start-up climatique [Origins-"
+"Earth](https://www.origins.earth/notre-demarche), dans le cadre de mon alternance de Master en "
+"Géomatique, j'ai eu l'opportunité de participer activement aux projets suivants :"
+msgstr ""
+"As a GIS developer at the climate start-up [Origins-Earth](https://www.origins.earth/notre-"
+"demarche), as part of my work-study Master's in Geomatics, I had the opportunity to take an "
+"active part in the following projects:"
+
+#: ../../../../Documents/cv/source/experience.md:36
+msgid "1. Développement d'un module de calcul et spatialisation des émissions de GES du transport aérien"
+msgstr ""
+"1\\. Development of a module for calculating and spatialising greenhouse gas (GHG) emissions from"
+" air transport"
+
+#: ../../../../Documents/cv/source/experience.md:38
+msgid ""
+"Recherche et exploitation de données ouvertes, spatiales et non spatiales : performance "
+"(consommation/émissions) des moteurs en service sur le marché du transport aérien civil, "
+"localisation des pistes d'aéroport dans le monde et trafic aérien ;"
+msgstr ""
+"Researching and using open data, spatial and non-spatial: performance (consumption/emissions) of "
+"engines in service in the civil air transport market, location of airport runways worldwide and "
+"air traffic;"
+
+#: ../../../../Documents/cv/source/experience.md:39
+msgid "Création et gestion de la base de données avec PostGIS ;"
+msgstr "Creating and managing the database with PostGIS;"
+
+#: ../../../../Documents/cv/source/experience.md:40
+msgid ""
+"Développement du module opérationnel de calcul et de spatialisation 3D des trajectoires et des "
+"émissions de CO<sub>2</sub> avec Python."
+msgstr ""
+"Developing the operational module for calculating and 3D-spatialising trajectories and "
+"CO<sub>2</sub> emissions with Python."
+
+#: ../../../../Documents/cv/source/experience.md:42
+msgid ""
+"Le module est écrit en Python pur, au sein d'un environnement de développement industriel. Il "
+"s'appuie sur des modules spécialisés dans la capture et le traitement de données spatiales, la "
+"connexion à des bases de données sur des serveurs distants et locaux, et la production "
+"d'informations spatiales dans des formats adaptés à la visualisation (GeoJSON, SHP, KML) ou "
+"multidimensionnels (NetCDF, Zarr)."
+msgstr ""
+"The module is written in pure Python within an industrial development environment. It relies on "
+"specialised modules for capturing and processing spatial data, connecting to databases on remote "
+"and local servers, and producing spatial information in formats suited to visualisation (GeoJSON,"
+" SHP, KML) or multidimensional formats (NetCDF, Zarr)."
+
+#: ../../../../Documents/cv/source/experience.md:44
+msgid ""
+"*📡 Pour ce projet, j'ai aussi installé et paramétré un récepteur de signal "
+"[ADS-B](https://fr.wikipedia.org/wiki/Automatic_dependent_surveillance-broadcast), qui alimente "
+"le module de calcul avec des informations sur le trafic aérien.*"
+msgstr ""
+"*📡 For this project, I also installed and configured an "
+"[ADS-B](https://en.wikipedia.org/wiki/Automatic_dependent_surveillance%E2%80%93broadcast) signal "
+"receiver, which feeds the calculation module with air traffic information.*"
+
+#: ../../../../Documents/cv/source/experience.md:47
+msgid ""
+"![Trajectoires 3D à l'aéroport Charles de Gaulle:](./images/trajectories3D.jpg \"Trajectoires 3D "
+"à l'aéroport Charles de Gaulle:\")"
+msgstr ""
+"![3D trajectories at Charles de Gaulle airport:](./images/trajectories3D.jpg \"3D trajectories at"
+" Charles de Gaulle airport:\")"
+
+#: ../../../../Documents/cv/source/experience.md:47
+msgid "Trajectoires 3D à l'aéroport Charles de Gaulle:"
+msgstr "3D trajectories at Charles de Gaulle airport:"
+
+#: ../../../../Documents/cv/source/experience.md:50
+msgid "2. Spatialisation des émissions de CO2 et de CH4"
+msgstr "2\\. Spatialisation of CO2 and CH4 emissions"
+
+#: ../../../../Documents/cv/source/experience.md:52
+msgid ""
+"Conception et développement d'une méthodologie permettant de répartir les émissions de GES à "
+"partir d'informations spatiales et non spatiales, produites par des entités publiques et des "
+"informations *Open Source*. Mes contributions :"
+msgstr ""
+"Design and development of a methodology for distributing GHG emissions from spatial and non-"
+"spatial information produced by public entities, and from *Open Source* information. My "
+"contributions:"
+
+#: ../../../../Documents/cv/source/experience.md:54
+msgid "la conception de la méthodologie de distribution des émissions de GES par secteur d'activité ;"
+msgstr "designing the methodology for distributing GHG emissions by sector of activity;"
+
+#: ../../../../Documents/cv/source/experience.md:55
+msgid "la rédaction de la documentation des méthodologies proposées."
+msgstr "writing the documentation of the proposed methodologies."
+
+#: ../../../../Documents/cv/source/experience.md:58
+msgid "3. Représentation des données spatiales"
+msgstr "3\\. Spatial data visualisation"
+
+#: ../../../../Documents/cv/source/experience.md:60
+msgid "Création de cartes web interactives en 2,5D et en 3D ;"
+msgstr "Creating interactive 2.5D and 3D web maps;"
+
+#: ../../../../Documents/cv/source/experience.md:61
+msgid ""
+"Utilisation de frameworks modernes de cartographie web, tels que DeckGL, Leaflet, Turf.js, "
+"Mappa.js, p5.js et Folium."
+msgstr "Using modern web mapping frameworks such as DeckGL, Leaflet, Turf.js, Mappa.js, p5.js and Folium."
+
+#: ../../../../Documents/cv/source/experience.md:64
+msgid "![Carte 3D Marseille:](./images/vuePort.PNG \"Carte 3D Marseille\")"
+msgstr "![3D map of Marseille:](./images/vuePort.PNG \"3D map of Marseille\")"
+
+#: ../../../../Documents/cv/source/experience.md:64
+msgid "Carte 3D Marseille:"
+msgstr "3D map of Marseille:"
+
+#: ../../../../Documents/cv/source/experience.md:70
+msgid "⚠️ Valeurs produites au hasard avec le seul objectif de générer un produit visuel"
+msgstr "⚠️ Randomly generated values, with the sole purpose of producing a visual product"
+
+#: ../../../../Documents/cv/source/experience.md:73
+msgid "Ingénieur Cadastral"
+msgstr "Cadastral Engineer"
+
+#: ../../../../Documents/cv/source/experience.md:74
+msgid "*Septembre 2018 - Septembre 2019*"
+msgstr "*September 2018 - September 2019*"
+
+#: ../../../../Documents/cv/source/experience.md:76
+msgid ""
+"En tant qu'ingénieur, j'ai travaillé au sein de la société d'expertise cadastrale "
+"[APRA](https://apra.com.co/), où j'ai participé à des projets liés au calcul de la valeur des "
+"biens immobiliers, suivant les méthodes de comparaison du marché, la méthode de revenu ou de "
+"capitalisation du revenu, la méthode du coût de remplacement et la méthode résiduelle."
+msgstr ""
+"As an engineer, I worked at the cadastral expertise company [APRA](https://apra.com.co/), where I"
+" took part in projects involving the valuation of real estate, using the market comparison "
+"method, the income or income capitalisation method, the replacement cost method and the residual "
+"method."
+
+#: ../../../../Documents/cv/source/experience.md:78
+msgid ""
+"De plus, j'ai participé à la mise à jour de la base de données cadastrale et à la proposition de "
+"modèles économétriques pour déterminer la valeur de la taxe foncière de la ville de Cali en "
+"Colombie, avec une population de 2,3 millions d'habitants."
+msgstr ""
+"I also took part in updating the cadastral database and in proposing econometric models to "
+"determine the property tax value for the city of Cali, Colombia, which has a population of 2.3 "
+"million."
+
+#: ../../../../Documents/cv/source/experience.md:80
+msgid ""
+"Enfin, j'ai mené un projet d'évaluation d'habitations dans des zones exposées à un risque de "
+"glissement de terrain dans la cordillère orientale de la ville de Bogotá, en Colombie, dans le "
+"cadre d'un plan de relogement de familles."
+msgstr ""
+"Finally, I led a project assessing homes in areas exposed to landslide risk in the eastern hills "
+"of Bogotá, Colombia, as part of a plan to relocate families."
+
+#: ../../../../Documents/cv/source/experience.md:83
+msgid "Développeur d'applications avec ArcGIS Web AppBuilder"
+msgstr "Application Developer with ArcGIS Web AppBuilder"
+
+#: ../../../../Documents/cv/source/experience.md:84
+msgid "*Octobre 2017 - Juin 2018*"
+msgstr "*October 2017 - June 2018*"
+
+#: ../../../../Documents/cv/source/experience.md:86
+msgid ""
+"Au sein de la [Direction Générale Maritime de Colombie](https://www.dimar.mil.co/), j'ai effectué"
+" mon stage d'ingénieur ; j'ai participé à la création d'applications pour le service maritime en "
+"utilisant principalement les produits ArcGIS Enterprise, en particulier ArcGIS WebAppBuilder et "
+"ArcGIS Dashboards.<br>"
+msgstr ""
+"At the [Colombian General Maritime Directorate (DIMAR)](https://www.dimar.mil.co/), I did my "
+"engineering internship; I took part in building applications for the maritime service, mainly "
+"using ArcGIS Enterprise products, in particular ArcGIS WebAppBuilder and ArcGIS Dashboards.<br>"
+
+#: ../../../../Documents/cv/source/experience.md:88
+msgid ""
+"*👓 Au fait, [ici](https://www.arcgis.com/apps/dashboards/ed8f47658db84a95a63e72f0b053c137) se "
+"trouve l'un des produits récemment réalisés avec deux talentueuses camarades de classe à l'aide "
+"des outils ArcGIS, dans le cadre d'un de mes cours du Master en géomatique.*"
+msgstr ""
+"*👓 By the way, [here](https://www.arcgis.com/apps/dashboards/ed8f47658db84a95a63e72f0b053c137) is"
+" one of the products I recently made with two talented classmates using ArcGIS tools, as part of "
+"one of my Master's courses in geomatics.*"
+
